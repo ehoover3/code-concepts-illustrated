@@ -71,5 +71,3 @@ I hear you.
 - Wonder <https://www.youtube.com/watch?v=zJMCctR8ivc
   Mr. Browne creates space for each student to share more about themselves.
   Julian builds the relationship with Auggie with a follow-up question based on what Auggie shared
-
-# To continue, go to "3_Scenarios"
