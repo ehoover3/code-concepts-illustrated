@@ -1,99 +1,55 @@
 # 3: Scenarios
 
-(CURRENT WORK IN PROGRESS)
+# Coach Session
 
-# Empathy Examples
+- 1. Start of the Session - Build the relationship right away
+     "Oh! Awesome star wars shirt!"
+     (If LOTR desktop background) "You're a fan of Lord of the Rings too? Love that."
 
-- I want to make sure I understand you. What I'm hearing is...
-- Is there anything else I can help you with today?
-- Ah, I've made this error before. Here are our next steps.
-- You're not alone, I'm with you.
-- Wow, that's frustrating. I hear you.
+- 2. Let them define the challenge
+     "How can I help today?"
+     "What do the instructions say about this?"
 
-# Minimal Encouragers
+- 3. As you discover what works for your coaching style, here are some methods to consider.
 
-- Go on...
-- Tell me more.
-- What else are you thinking?
+     ADD COMMENTS
+     Sometimes it helps to have them comment and describe every line.
+     "What does this line do? Ok, let's write a comment at the end of that line."
 
-# How to De-Escalate Situations
+     USE ZOOM ANNOTATIONS TO UNDERLINE/DRAW BOXES
+     "What is happening inside of this section here? (coach underlines/draws box)"
+     "I'm seeing we're missing something here (coach underlines/draws box)."
 
-- Help me understand what you're thinking and feeling.
-- What are some ideas on how we can solve this?
-- I'm hearing you're needing... Is that correct? Ok, here is what I'm needing.
+     HIGHLIGHT WHAT THEY HAVE RIGHT
+     When a student is stuck, point out another area in the code, where they have it right.
+     "I'm seeing you're missing something here, that you did correctly over here. (coach underlines/draws box)"
 
-What does this line do?
+     CONSOLE LOG
+     "Ok, let's add a console log on this variable to see how this works."
 
-What is missing in line 25? I see that you have it correct in line 18?  
-[draws box arround the missing thing]
+     ASK FOR A CODE WALKTHROUGH
+     Some student don't know how data flows, i.e. how variables change, when certain functions run, etc.
+     "Ok, walk me through how this variable changes when the program runs. Where does it start?"
 
-# New Coaches - Advice From Past Coaches
+- 4. Ending the Session - Affirm and Explore More or Redirect
+     "I'm proud of you."
+     "Is there anything else I can help with today?"
+     "Ok, I have other students to reach out to, but let me send you a quick youtube resource."
+     "It seems like you're off to a good direction. Let's reconnect if you run into more challenges."
 
-- "Quote" from Michelle Miller
-- "Quote" from John Smith
-- "Quote" from Ben Builder
+- 5. Follow-Up
+     Consider sending a slack message with a relevant image, youtube video, or website.
 
-# Suggested VS Code Extension for Q1 Students
+# Student Wants Help, but You're Unavailable
 
-- Live Server
-- Bracket Pair Colorizer
-- Prettier - Code Formatter
+- Student: Can you help me?
 
-# English as a Second Language Students
+- Coach:
+  Hi [STUDENT NAME], I’m not available at the moment, but here are some other coaches that may be available:
+  -Coach's Name 1
+  -Coach's Name 2
+  -Coach's Name 3
 
-Some English as a second language students present unique communication challenges between the student and the coach.
+  Also, study hall is on --- days at --- time (https://kenzie.zoom.us/my/studyhall)
 
-While we recognize admissions role in setting English standards and screening students for English comprehension, the truth is these students are here now like the rest of us and are trying to make a better life and future for themselves. While it may be harder to coach these individuals, I admire your perserverance and determination to support all student from all backgrounds. As you form your own best practices, here are some best practices past coaches have discovered.
-
-# Best Practices Ideas
-
-- Communicate with more than words
-
-1. Share a list that matches the symbols with the vocab word
-2. Use zoom annotations to underline words while you read instructions out loud
-3. Use Google Translate
-
-- Encourage their English learning
-
-1. Set phone and computer settings to English
-2. Watch movies, TV, etc. in English with subtitles on
-3. Practice daily with resources like Duolingo
-4. If you're bilingual in their language, encourage them to practice English with you
-
-Thank you for reading and considering these thoughts.
-
-# Vocab
-
-1. () Parenthesis
-2. [] Square Brackets
-3. {} Curly Braces
-4. <> Angle Brackets
-5. ~ Tilde
-6. ¨¨ Quotation Marks
-7. ' Apostrophe
-8. `` Backticks (not the same thing as an )
-9. & Ampersand
-
-# Common Data Types
-
-10. Number - includes numbers with and without decimal points - 5.5
-11. String – text --------------------------------------------- "hello world"
-12. Variable - stores a value --------------------------------- myVariable
-13. Boolean - true or false ----------------------------------- true
-14. Array – list of (usually similar) elements ---------------- ["apple", "banana"]
-15. Object - includes the name and value pair ----------------- {firstName:"Briana", lastName:"Smith"}
-
-# Other Data Types
-
-17. Character – single number, letter, space, or symbol ------- i
-18. Null - something that doesn't exist ----------------------- null
-19. Undefined - a variables without a value ------------------- undefined
-20. Integer – positive, negative, or 0 whole number ----------- 4
-21. Float – a number with decimals (includes fractions) ------- 2.229
-
-# Common Vocab Terms
-
-22. Terminal
-23. Visual Studio Code
-24. Browser
-25. Browser -> Developer Tools
+  I hope this info helps!

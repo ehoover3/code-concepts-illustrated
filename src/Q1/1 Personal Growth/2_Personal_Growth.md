@@ -1,88 +1,59 @@
 # 2: Personal Growth
 
-(CURRENT WORK IN PROGRESS)
+# Vulnerability
 
-Personal growth is 3 steps: Self-Awareness, Inner Thoughts and Feelings, and Relationships
+Watch this video: <https://www.youtube.com/watch?v=H4kMA4fSV_k
+If a student is struggling to learn code, some students "armor up" from asking for coaching help.
+Build relationships and trust with students, to decrease their fear of judgment, fear, blame, and ridicule.
+Be open to being vulnerable and communicate with empathy.
 
-Consider this...
+# Empathy
 
-IN THE NEGATIVE
-If my self-view isn't right,
-my thoughts will not be right,
-which skews how way I relate to others,
-which limits results
+Watch this video: <https://www.youtube.com/watch?v=1Evwgu369Jw
+Empathy builds connection with students. Empathy's 4 qualities are:
+-1. Recognize another person's perspective as their truth
+-2. Stay out of judgment
+-3. Recognize emotion in another person
+-4. Communicate that emotion that person
 
-IN THE POSITIVE
-If I know who I am,
-my thought process will be open-minded,
-which creates space in building relationships,
-which drives collaborative results
+Empathy is a vulnerable choice of feeling with another person.
+In order to connect with you, I have to connect with something in myself that knows that feeling.
+-Example: "I know what that is like and you're not alone."
 
-If we want to improve our coaching results, we start by braving the vulnerability of improving ourself. Let's do exactly that.
+# Active Listening
 
-# Growth in Self-Awareness Starts with Vulnerability and Empathy
+Watch this video <https://www.youtube.com/watch?v=OaEw7ZFs5sU
+When students feel heard and understood, they are more engaged with learning with the coach.
+-Active Listening: Focusing on what they are saying and confirming your understanding of what they said
+-Mirroring: Confirm understanding by rephrasing what they said.
+-Tactical Empathy: "I'm hearing you say..." "It seems like you're..."
+-Calibrated Questions: Instead of saying no, help them explore their thoughts. "How am I supposed to do that?"
 
-1. Start by watching these videos:
+# Set Healthy Boundaries
 
-- 1. VULNERABILITY - www.youtube.com/watch?v=H4kMA4fSV_k
-- Scaricity culture is summed up as never enough:
-- never good enough, never certain enough, never perfect enough, never extraordinary enough.
-- In response to scarcity culture, we armor up to protect ourself from judgment, fear, blame, and ridicule
-- However, armoring up doesn't really safeguard from pain.
-- If we take our armor down and lean into vulnerability, vulnerability is the path that leads to love, belonging, joy, intimacy, trust, innovation, creativity, and empathy.
+Watch this video: <https://www.youtube.com/watch?v=t9PFlSPIJA8
+As a coach, your job isn't to say yes to every student all the time.
+Prioritize your self-care, your studies, then coaching.
+If you're not available to meet with a student, redirect them to other coaches, study hall, or other.
 
-- 2. EMPATHY - www.youtube.com/watch?v=1Evwgu369Jw
-- Empathy fuels connection
-- Sympathy drives disconnection
+# Examples in TV & Movies
 
-- The four qualities of empathy are:
-- a. perspective taking and the ability to recognize another person's perspective as their truth
-- b. staying out of judgment
-- c. recognizing emotion in other people
-- d. communicating that emotion to other people
+- Everybody Loves Raymond <https://www.youtube.com/watch?v=4VOubVB4CTU
+  Debra's sympathy, lack of vulnerability, and ego drives disconnection with Ally and Ray.
+  Ray uses empathy to connect in with how Ally is feeling.
 
-- Sympathy is being disconnected from our and their feelings.
-- Sympathy often emerges when, with good intentions, we try to fix things or make things better without first understanding the feelings and needs of the person we're trying to support.
+- Inside Out - Bing Bong <https://www.youtube.com/watch?v=t685WM5R6aM
+  Joy uses sympathy and tries to "fix" how Bing Bong is feeling.
+  Sadness uses reflective listening and empathy to communicate to Bing Bong understanding what he is feeling.
 
-- Scenario: Student says "I can't debug this."
-- Sympathy response A: Coach says "You need to do this."
-- Sympathy response B: Coach says "At least, you got this part right."
+- Inside Out - Dinner <https://www.youtube.com/watch?v=Cjgdiy_SGjA
+  The mother is using active listening to explore what Riley is going through.
+  The father is physically there, but mentally checked out and not listening at all.
+  Both parents fail to communicate with empathy what Riley is feeling to Riley.
+  The father focuses on his ego, his sense of power and control, instead of understanding Riley's feelings, which drives disconnection with both his daughter and wife.
 
-- On the surface, the student is trying to debug a coding problem, but deeper down, there is a subconscious question of "Do I still belong in the Kenzie program? Do people see me and understand me? Am I alone?"
-- A sympathy, while in good intentions, can result in the student feeling further disconnected and less motivated.
-
-- Empathy is feeling with other people and is a choice of vulnerability.
-- In order to connect with you, I have to connect with something in myself that knows that feeling.
-- Empathy Example: "I know what that is like and you're not alone."
-
-- Scenario: Student says "I can't debug this."
-- Empathy response A: "I've had this same problem before too. I'm with you. What should our next step be?"
-- Empathy response B: "That's frustrating, I hear you. May I make suggestion?"
-
-- Sometimes people on the surface say they want something. As a coach, we have to be considering their subtext.
-- The subtext is what are they feeling or truly needing in the moment?
-- As a coach, how can you respond in a way that answers their subtext questions first, then their coding question?
-
-# Inner Thoughts and Feelings
-
-Let's go there. Let's lean into vulnerability.
-
-3. Here's the deal, if we are disconnected from our own inner state, then we are limited in our ability to have empathy with students.
-
-- 1. You're stressed out all the time
-- 2. You've lost sight of yourself
-- 3. You've been through something traumatic
-- 4. You're recovering from abuse
-- 5. You're grieving an important loss
-- 6. You're struggling with mental illness
-- 7. You're on too much medication
-
-Emotionally Numb www.youtube.com/watch?v=Adlk8E2UoUs
-
-Past events, trauma drive disconnection
-
-TalkSpace to re-connect with ourself
-
-# Relationships
+- Wonder <https://www.youtube.com/watch?v=zJMCctR8ivc
+  Mr. Browne creates space for each student to share more about themselves.
+  Julian builds the relationship with Auggie with a follow-up question based on what Auggie shared
 
 # To continue, go to "3_Scenarios"
