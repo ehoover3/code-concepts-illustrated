@@ -9,5 +9,3 @@ On the surface, we're here to help students learn to code, but deeper down we're
 You're on a journey and are taking your next steps.
 
 Welcome to the adventure, my fellow coach. Let's make dreams come true.
-
-# To continue, go to "2_Personal_Growth"
