@@ -9,8 +9,11 @@
 7. ' Apostrophe
 8. `` Backticks (not the same thing as an )
 9. & Ampersand
+10. = equal sign (sets value equal)
+11. == double equal signs (compares value)
+12. === triple equal signs (compares value and type)
 
-# Common Data Types
+# Data Types, Common
 
 10. Number - includes numbers with and without decimal points - 5.5
 11. String – text --------------------------------------------- "hello world"
@@ -19,7 +22,7 @@
 14. Array – list of (usually similar) elements ---------------- ["apple", "banana"]
 15. Object - includes the name and value pair ----------------- {firstName:"Briana", lastName:"Smith"}
 
-# Other Data Types
+# Data Types, Less Common
 
 17. Character – single number, letter, space, or symbol ------- i
 18. Null - something that doesn't exist ----------------------- null
