@@ -18,9 +18,49 @@ Empathy builds connection with students. Empathy's 4 qualities are:
 
 Empathy is a vulnerable choice of feeling with another person.
 In order to connect with you, I have to connect with something in myself that knows that feeling.
--Example: "I know what that is like and you're not alone."
 
-# 3. Active Listening
+Sympathy Examples
+-Denial --------------> There is nothing wrong. Everything is fine.
+-Diagnose ------------> You are too sensitive.
+-Downplaying ---------> It's not that bad! It's not the end of the world.
+-Expectation ---------> You should have known better. Get over it. Don't let it get to you.
+-Positive Spin -------> Look on the bright side. This happened for a reason.
+-Put Down ------------> Don't be ridiculous.
+-Reasoning -----------> Can't you see the other person didn't mean to hurt you?
+-Steal the Spotlight -> Now you know how I felt when the same thing happened to me.
+
+Empathy Examples
+-Acknowledge Them ----> I'm sorry to hear about that.
+-Acknowledge Them ----> Thank you for sharing this with me.
+-Acknowledge Them ----> Thank you for understanding.
+-Acknowledge Them ----> That must be really frustrating.
+-Acknowledge Them ----> You're not alone. I've felt that way too.
+-Clarify -------------> Anything else I can help with today?
+-Clarify -------------> Are you asking me to problem solve or just listen?
+-Clarify -------------> How can I help?
+-Clarify -------------> How should we move forward?
+-Clarify -------------> I'm hearing you say... Is that correct?
+-Clarify -------------> What are our options?
+-Clarify -------------> What do you need from me?
+
+Leaders Use Empathy
+-LinkedIn CEO Jeff Weiner <https://www.youtube.com/watch?v=rnCWtDm_Z7E
+-Microsoft CEO Satya Nadella <https://www.youtube.com/watch?v=nq8rEeJ4Tak
+-New Zealand Prime Minister Jacinda Ardern <https://www.youtube.com/watch?v=ruDJp64prhc
+
+# 3. Four Horsemen
+
+Watch this video <https://www.youtube.com/watch?v=PHAiAJybCSU
+Examples ------> <https://www.youtube.com/watch?v=tQOgAgfDm_8
+A coach's goal is to build positive relationships. The Four Horsemen are communication styles that worsen relationships.
+
+Here are the toxic Four Horsemen and their healthy cures:
+-1. Criticism ("You're doing this wrong") --------------------> Use a Gentle Startup ("I noticed this")
+-2. Defensive ("We just need better students") ---------------> Take Responsibility ("How can I be a better coach?")
+-3. Contempt (coach eyerolling or deep sighing at student) ---> Share Appreciation ("I like how you did this.")
+-4. Stonewall (Student asks for help, coach never responds) --> If unavailable, redirect ("Thanks for reaching out. I'm not available today, but these coaches might be")
+
+# 4. Active Listening
 
 Watch this video <https://www.youtube.com/watch?v=OaEw7ZFs5sU
 When students feel heard and understood, they are more engaged with learning with the coach.
@@ -29,45 +69,27 @@ When students feel heard and understood, they are more engaged with learning wit
 -Tactical Empathy: "I'm hearing you say..." "It seems like you're..."
 -Calibrated Questions: Instead of saying no, help them explore their thoughts. "How am I supposed to do that?"
 
-# 4. Set Healthy Boundaries
+# 5. Set Healthy Boundaries
 
 Watch this video: <https://www.youtube.com/watch?v=t9PFlSPIJA8
 As a coach, your job isn't to say yes to every student all the time.
 Prioritize your self-care, your studies, then coaching.
 If you're not available to meet with a student, redirect them to other coaches, study hall, or other.
 
-# 5. Name It to Tame It
+# OPTIONAL - Scenarios in TV & Movies
 
-Watch this video: <https://www.youtube.com/watch?v=-AJAe28xkvM
+-Everybody Loves Raymond <https://www.youtube.com/watch?v=4VOubVB4CTU
+-Debra's sympathy, lack of vulnerability, and ego drives disconnection with Ally and Ray.
+-Ray uses empathy to connect in with how Ally is feeling.
 
-# Empathy Examples
+-Inside Out - Bing Bong <https://www.youtube.com/watch?v=t685WM5R6aM
+-Joy uses sympathy and tries to "fix" how Bing Bong is feeling.
+-Sadness uses reflective listening and empathy to communicate to Bing Bong understanding what he is feeling.
 
-What would you want me to know about your experience?
-What can I do to help?
-I hear you.
+-Inside Out - Dinner <https://www.youtube.com/watch?v=Cjgdiy_SGjA
+-The mom uses active listening with Riley. The dad is physically there, but mentally checked out.
+-The dad focuses on his ego, power, and control; not seeking to understand what Riley is experiencing and feelings.
 
-# Empathy Examples in Leaders
-
--LinkedIn CEO Jeff Weiner <https://www.youtube.com/watch?v=rnCWtDm_Z7E
--Microsoft CEO Satya Nadella <https://www.youtube.com/watch?v=nq8rEeJ4Tak
--New Zealand Prime Minister Jacinda Ardern <https://www.youtube.com/watch?v=ruDJp64prhc
-
-# Empathy Examples in TV & Movies
-
-- Everybody Loves Raymond <https://www.youtube.com/watch?v=4VOubVB4CTU
-  Debra's sympathy, lack of vulnerability, and ego drives disconnection with Ally and Ray.
-  Ray uses empathy to connect in with how Ally is feeling.
-
-- Inside Out - Bing Bong <https://www.youtube.com/watch?v=t685WM5R6aM
-  Joy uses sympathy and tries to "fix" how Bing Bong is feeling.
-  Sadness uses reflective listening and empathy to communicate to Bing Bong understanding what he is feeling.
-
-- Inside Out - Dinner <https://www.youtube.com/watch?v=Cjgdiy_SGjA
-  The mother is using active listening to explore what Riley is going through.
-  The father is physically there, but mentally checked out and not listening at all.
-  Both parents fail to communicate with empathy what Riley is feeling to Riley.
-  The father focuses on his ego, his sense of power and control, instead of understanding Riley's feelings, which drives disconnection with both his daughter and wife.
-
-- Wonder <https://www.youtube.com/watch?v=zJMCctR8ivc
-  Mr. Browne creates space for each student to share more about themselves.
-  Julian builds the relationship with Auggie with a follow-up question based on what Auggie shared
+-Wonder <https://www.youtube.com/watch?v=zJMCctR8ivc
+-Mr. Browne creates space for each student to share more about themselves.
+-Julian actively listens, then builds the relationship with Auggie with a follow-up question based on what Auggie shared

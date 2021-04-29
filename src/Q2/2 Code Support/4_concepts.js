@@ -6,10 +6,7 @@
 
 // 3. PROMISE
 
-/////////////////////////////////////////////////////////////
-/////////////////////////////////// *** Callback Function ***
-/////////////////////////////////////////////////////////////
-
+/////////////////////////////////// *** Callback Function *** ///////////////////
 // This function syntax does the same thing as...
 function add(a, b) {
   return a + b;
@@ -20,19 +17,13 @@ const add = (a, b) => {
   return a + b;
 };
 
-/////////////////////////////////////////////////////////////
-//////////////////////// *** Why Use a Callback Function? ***
-/////////////////////////////////////////////////////////////
-
+//////////////////////// *** Why Use a Callback Function? *** ///////////////////
 // You use a callback when you want some code to be executed by another function, but don't necessarily have access to that other function.
 
 // In Q1, you always had access to all of your functions (front end only)
 // In Q2, you are doing fetch calls to servers (accessing backend functions you don't necessarily have direct access to)
 
-/////////////////////////////////////////////////////////////
-/////////////////// *** What is an Analogy of a Callback? ***
-/////////////////////////////////////////////////////////////
-
+/////////////////// *** What is an Analogy of a Callback? *** ///////////////////
 // OPTION A - SYNCHRONOUS
 // You call someone with a request.
 // You wait and do nothing else until they give you a response.
@@ -47,10 +38,7 @@ const add = (a, b) => {
 // Since a promise is asynchronous code, the front-end program does other functions while waiting on the back-end server's response.
 // When the back-end server's function is done, it provides a response. As soon as the response is provided, a front-end callback function runs.
 
-/////////////////////////////////////////////////////////////
-///////// *** What is a Real World Example of a Callback? ***
-/////////////////////////////////////////////////////////////
-
+///////// *** What is a Real World Example of a Callback? *** ///////////////////
 // This example has 1 promise and 2 callback functions
 
 let myArray;
