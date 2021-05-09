@@ -1,8 +1,7 @@
 # Business Leadership
 
 Coaches graduate and become employees, and some employees become business leaders.
-
-This is to support your career by sharing a business education overview.
+In support of your career, here is a crash-course business education.
 
 # 1. Value Chain - Individual Business Analysis
 
